@@ -1,0 +1,9 @@
+.btn-orange{
+	background-color: #fc9427;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 5px;
+	font-weight: bold;
+	font-family: 'Big Shoulders Text',san-serif;
+	margin:100px auto;
+}

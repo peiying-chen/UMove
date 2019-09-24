@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Text|Mansalva&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+
+body {
+  font-family: 'Big Shoulders Text', serif;
+  margin: 0px;
+  text-align: center;
+  font-size: 20px;
+}
+
+#logo {
+	width: 20%;
+	height: 20%;
+	border-radius: 50%;
+	position: left;
+}
